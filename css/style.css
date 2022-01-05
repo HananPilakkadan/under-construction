@@ -73,6 +73,7 @@ main .text-box h4 {
   font-size: 40px;
   color: #7990d6;
   letter-spacing: 1px;
+  line-height: 1.5em;
 }
 main .text-box p {
   font-size: 20px;
@@ -94,7 +95,7 @@ main .text-box p {
     width: 75%;
   }
   main .text-box h4 {
-    font-size: 30px;
+    font-size: 26px;
     margin-bottom: 16px;
   }
   main .text-box {
@@ -116,7 +117,7 @@ main .text-box p {
     width: 85%;
   }
   main .text-box h4 {
-    font-size: 30px;
+    font-size: 24px;
     margin-bottom: 24px;
   }
   main .text-box p {
